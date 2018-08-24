@@ -1,6 +1,6 @@
 {
-  "name": "progress",
-  "version": "2.0.0",
+  "name": "@larsbs/progress",
+  "version": "1.0.0",
   "description": "Flexible ascii progress bar",
   "repository": {
     "type": "git",
